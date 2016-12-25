@@ -2,13 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://moorejs.github.io/dustincmoore-gallery/album-2/</loc>
+    <lastmod>2016-12-25T01:30:08-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://moorejs.github.io/dustincmoore-gallery/album-1/</loc>
+    <lastmod>2016-12-25T01:14:17-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://moorejs.github.io/dustincmoore-gallery/post/test/</loc>
     <lastmod>2016-12-25T00:51:38-05:00</lastmod>
   </url>
   
   <url>
+    <loc>http://moorejs.github.io/dustincmoore-gallery/album-1/</loc>
+    <lastmod>2016-12-25T01:14:17-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://moorejs.github.io/dustincmoore-gallery/album-2/</loc>
+    <lastmod>2016-12-25T01:30:08-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://moorejs.github.io/dustincmoore-gallery/</loc>
-    <lastmod>2016-12-25T00:51:38-05:00</lastmod>
+    <lastmod>2016-12-25T01:30:08-05:00</lastmod>
     <priority>0</priority>
   </url>
   

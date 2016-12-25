@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>http://moorejs.github.io/dustincmoore-gallery/index.xml</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>Album 2s on My New Hugo Site</title>
+    <link>http://moorejs.github.io/dustincmoore-gallery/album-2/index.xml</link>
+    <description>Recent content in Album 2s on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 25 Dec 2016 01:30:08 -0500</lastBuildDate>
-    <atom:link href="http://moorejs.github.io/dustincmoore-gallery/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://moorejs.github.io/dustincmoore-gallery/album-2/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>index</title>
@@ -26,30 +26,6 @@
 	&lt;h2&gt;SOME TITLE&lt;/h2&gt;
 	&lt;p&gt;SOME SHORT DESCRIPTION. MARKDOWN &lt;strong&gt;SUPPORTED&lt;/strong&gt;&lt;/p&gt;
 &lt;/article&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>ALBUM 1</title>
-      <link>http://moorejs.github.io/dustincmoore-gallery/album-1/</link>
-      <pubDate>Sun, 25 Dec 2016 01:14:17 -0500</pubDate>
-      
-      <guid>http://moorejs.github.io/dustincmoore-gallery/album-1/</guid>
-      <description>&lt;article class=&#34;thumb&#34;&gt;
-	&lt;a href=&#34;http://moorejs.github.io/dustincmoore-gallery/imgs/IMG_1635.jpg&#34; class=&#34;image&#34;&gt;&lt;img src=&#34;http://moorejs.github.io/dustincmoore-gallery/imgs/IMG_1635.jpg&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;
-	&lt;h2&gt;SOME TITLE&lt;/h2&gt;
-	&lt;p&gt;PASTE THIS SHORTCODE FOR EVERY IMAGE YOU HAVE IN THIS GALLERY&lt;/p&gt;
-&lt;/article&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>test</title>
-      <link>http://moorejs.github.io/dustincmoore-gallery/post/test/</link>
-      <pubDate>Sun, 25 Dec 2016 00:51:38 -0500</pubDate>
-      
-      <guid>http://moorejs.github.io/dustincmoore-gallery/post/test/</guid>
-      <description>&lt;p&gt;TETS&lt;/p&gt;
 </description>
     </item>
     
