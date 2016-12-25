@@ -1,0 +1,4 @@
+title = "My New Hugo Site"
+baseurl = "http://moorejs.github.io/dustincmoore-gallery"
+languageCode = "en-us"
+canonifyURLs = true
